@@ -1,0 +1,63 @@
+= *Proteus Core Dashboard*
+:--[no-]html-to-native:
+:author: “Farida Nur Hidayah”
+:date: “2020-03-19”
+:document type: “6” 
+:summary: “Proteus Chip adalah sistem yang diinstall di tiap Serpul Owner, agar dapat menambah stok dari chip modem untuk berbagai transaksi.”
+
+== Informasi Umum
+
+'''
+
+Proteus Core Dashboard adalah dashboard untuk Proteus Core.
+Dimana dashboard ini digunakan oleh Serpul Owner untuk mengatur produknya yang akan digunakan untuk transaksi dari partner.
+Selain itu juga, Serpul Owner bisa membuat akun untuk partner di dashboard ini.
+
+Dalam mitologi Yunani, Proteus (/ ˈproʊtiəs, -tjuːs /;
+[1] Yunani Kuno: Πρωτεύς) adalah dewa laut atau dewa sungai kenabian awal dan badan air samudera, salah satu dari beberapa dewa yang disebut Homer sebagai "Manusia Tua dari Laut "(halios gerôn).
+
+== *Anggota Tim*
+
+|===
+| *Position* | *Name* | *Tim*
+
+| Product Owner
+| Leo Himawan Adiakso
+| Putterfish
+
+| Development Manager
+| Evan Sujanto
+| Putterfish
+
+| Lead Software Engineer
+| Kevin Setiawan Tanzil
+| Putterfish
+
+| Lead Quality Engineer
+| Fransiska Maya
+| Pangolin
+
+| Lead System Analyst
+| Budiyanto
+| Strix
+|===
+
+== *Informasi Teknis*
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-url[*System URL*]
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-architecture[*Architecture*]
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-technology[*Technology*]
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-environment[Environment]
+
+== *Onboarding Information*
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-devonboard[*Developer Onboarding*]
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-dev[*Development*]
+
+== *Dokumentasi*
+
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-apidoc[*API Documentation*]
