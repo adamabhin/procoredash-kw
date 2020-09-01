@@ -1,5 +1,5 @@
-= System URL
-
+= System URL Proteus Core Dashboard
+ 
 Berikut merupakan tautan dari sistem Proteus Alpha:
 
 |===

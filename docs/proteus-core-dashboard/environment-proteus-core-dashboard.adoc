@@ -1,4 +1,4 @@
-= Environment
+= Environment Proteus Core Dashboard
 
 == Staging
 

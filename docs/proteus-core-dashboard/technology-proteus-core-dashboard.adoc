@@ -1,4 +1,4 @@
-= Technology
+= Technology Proteus Core Dashboard
 
 . Vue JS
 . Nuxt JS Framework + Vuetify
