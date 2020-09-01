@@ -1,8 +1,3 @@
 = Developer Onboarding
-:--[no-]html-to-native:
-:author: “Farida Nur Hidayah”
-:date: “2020-03-19”
-:document type: “6” 
-:summary: “Halaman ini menampilkan informasi End Point dari Proteus Core Dashboard”
 
 https://github.com/sepulsa/proteus-core-dashboard[Onboarding]

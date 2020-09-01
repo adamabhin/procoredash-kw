@@ -1,4 +1,4 @@
-= *Proteus Core Dashboard*
+= Proteus Core Dashboard
 :--[no-]html-to-native:
 :author: “Farida Nur Hidayah”
 :date: “2020-03-19”
@@ -7,8 +7,6 @@
 
 == Informasi Umum
 
-'''
-
 Proteus Core Dashboard adalah dashboard untuk Proteus Core.
 Dimana dashboard ini digunakan oleh Serpul Owner untuk mengatur produknya yang akan digunakan untuk transaksi dari partner.
 Selain itu juga, Serpul Owner bisa membuat akun untuk partner di dashboard ini.
@@ -16,10 +14,10 @@ Selain itu juga, Serpul Owner bisa membuat akun untuk partner di dashboard ini.
 Dalam mitologi Yunani, Proteus (/ ˈproʊtiəs, -tjuːs /;
 [1] Yunani Kuno: Πρωτεύς) adalah dewa laut atau dewa sungai kenabian awal dan badan air samudera, salah satu dari beberapa dewa yang disebut Homer sebagai "Manusia Tua dari Laut "(halios gerôn).
 
-== *Anggota Tim*
+== Anggota Tim
 
 |===
-| *Position* | *Name* | *Tim*
+| Position | Name | Tim
 
 | Product Owner
 | Leo Himawan Adiakso
@@ -42,22 +40,22 @@ Dalam mitologi Yunani, Proteus (/ ˈproʊtiəs, -tjuːs /;
 | Strix
 |===
 
-== *Informasi Teknis*
+== Informasi Teknis
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-url[*System URL*]
+<<proteus-core-dashboard/url-proteus-core-dashboard.adoc#, URL Proteus Core Dashboard>>
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-architecture[*Architecture*]
+<<proteus-core-dashboard/architecture-proteus-core-dashboard.adoc#, Architecture Proteus Core Dashboard>>
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-technology[*Technology*]
+<<proteus-core-dashboard/technology-proteus-core-dashboard.adoc#, Technology Proteus Core Dashboard>>
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-environment[Environment]
+<<proteus-core-dashboard/environment-proteus-core-dashboard.adoc#, Environment Proteus Core Dashboard>>
 
-== *Onboarding Information*
+== Onboarding Information
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-devonboard[*Developer Onboarding*]
+<<proteus-core-dashboard/dev-onboarding-proteus-core-dashboard.adoc#, Developer Onboarding Proteus Core Dashboard>>
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-dev[*Development*]
+link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-dev[*Development*]<<proteus-core-dashboard/development-proteus-core-dashboard.adoc#, Development Proteus Core Dashboard>>
 
-== *Dokumentasi*
+== Dokumentasi
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-apidoc[*API Documentation*]
+<<proteus-core-dashboard/api-proteus-core-dashboard, API Documentation Proteus Core Dashboard>>

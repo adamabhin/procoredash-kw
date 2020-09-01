@@ -1,14 +1,9 @@
 = System URL
-:--[no-]html-to-native:
-:author: “Farida Nur Hidayah”
-:date: “2020-03-19”
-:document type: “6” 
-:summary: “Halaman ini menampilkan informasi URL dari Proteus Core Dashboard”
 
 Berikut merupakan tautan dari sistem Proteus Alpha:
 
 |===
-| *Position* | *Name*
+| Position | Name
 
 | Development
 |
