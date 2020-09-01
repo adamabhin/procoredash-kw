@@ -1,10 +1,5 @@
 = Architecture
-:--[no-]html-to-native:
-:author: “Farida Nur Hidayah”
-:date: “2020-03-19”
-:document type: “6” 
-:summary: “Halaman ini menampilkan informasi arsitektur dari Proteus Core Dashboard”
 
 == High Level Architecture
 
-image::images/hla.png[]
+image::images-proteus-core-dashboard/hla.png[hla-proteus-core-dashboard]

@@ -1,14 +1,10 @@
 = API Documentation
-:--[no-]html-to-native:
-:author: “Farida Nur Hidayah”
-:date: “2020-03-19”
-:document type: “6” 
-:summary: “Halaman ini menampilkan informasi API dokumentasi dari Proteus Core Dashboard”
 
-[cols=2*]
 |===
-| [Build, Collaborate & Integrate APIs
-| SwaggerHub](https://app.swaggerhub.com/apis/swaggeracc/PROTEUS_CORE/1.0.0)
+|    |  
+| Build, Collaborate & Integrate APIs
+| https://app.swaggerhub.com/apis/swaggeracc/PROTEUS_CORE/1.0.0[SwaggerHub] 
+
 |===
 
-*Harus bergabung dengan grup SERPUL swaggerhub terlebih dahulu untuk mengakses API Documentation Proteus Core Dahboard
+* Harus bergabung dengan grup SERPUL swaggerhub terlebih dahulu untuk mengakses API Documentation Proteus Core Dahboard

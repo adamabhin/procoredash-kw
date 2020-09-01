@@ -1,9 +1,4 @@
 = Environment
-:--[no-]html-to-native:
-:author: “Farida Nur Hidayah”
-:date: “2020-03-19”
-:document type: “6” 
-:summary: “Halaman ini menampilkan informasi environment dari Proteus Core Dashboard”
 
 == Staging
 
