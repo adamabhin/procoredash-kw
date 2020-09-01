@@ -17,6 +17,6 @@ jobs:
           java-version: 1.8
       - name: Build with Maven
         env:
-          username: ${{ secrets.USER_ID }}
-          password: ${{ secrets.PASSWORD_ID }}
+          username: ${{ secrets.ID }}
+          password: ${{ secrets.PASS }}
         run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom.xml -Dusername=$username -Dpassword=$password
