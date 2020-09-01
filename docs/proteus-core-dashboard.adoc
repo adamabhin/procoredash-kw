@@ -53,4 +53,4 @@ Dalam mitologi Yunani, Proteus (/ ˈproʊtiəs, -tjuːs /;
 
 == Dokumentasi
 
-<<proteus-core-dashboard/api-proteus-core-dashboard, API Documentation Proteus Core Dashboard>>
+<<proteus-core-dashboard/api-doc-proteus-core-dashboard, API Documentation Proteus Core Dashboard>>
