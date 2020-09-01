@@ -1,4 +1,4 @@
-= Architecture
+= Architecture Proteus Core Dashboard
 
 == High Level Architecture
 
