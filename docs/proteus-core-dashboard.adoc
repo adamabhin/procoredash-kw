@@ -1,9 +1,4 @@
 = Proteus Core Dashboard
-:--[no-]html-to-native:
-:author: “Farida Nur Hidayah”
-:date: “2020-03-19”
-:document type: “6” 
-:summary: “Proteus Chip adalah sistem yang diinstall di tiap Serpul Owner, agar dapat menambah stok dari chip modem untuk berbagai transaksi.”
 
 == Informasi Umum
 
@@ -54,7 +49,7 @@ Dalam mitologi Yunani, Proteus (/ ˈproʊtiəs, -tjuːs /;
 
 <<proteus-core-dashboard/dev-onboarding-proteus-core-dashboard.adoc#, Developer Onboarding Proteus Core Dashboard>>
 
-link:/Business-Initiatives/Traditional#Proteus-Core-Dasboard/proteus-coredas-dev[*Development*]<<proteus-core-dashboard/development-proteus-core-dashboard.adoc#, Development Proteus Core Dashboard>>
+<<proteus-core-dashboard/development-proteus-core-dashboard.adoc#, Development Proteus Core Dashboard>>
 
 == Dokumentasi
 
