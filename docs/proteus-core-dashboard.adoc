@@ -1,4 +1,4 @@
-= Proteus Core Dashboard
+= Proteus Core Dashboar
 
 == Informasi Umum
 
